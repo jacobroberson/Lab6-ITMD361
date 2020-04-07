@@ -1,1 +1,1 @@
-# Lab6-ITMD361
+This is a webpage that demonstrates styling on navigation bars.
